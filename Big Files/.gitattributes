@@ -1,0 +1,13 @@
+GoogleDriveSetup.7z filter=lfs diff=lfs merge=lfs -text
+dolphin-anty-win-latest.exe filter=lfs diff=lfs merge=lfs -text
+DesktopEditors_x64.msi filter=lfs diff=lfs merge=lfs -text
+Docker[[:space:]]Desktop[[:space:]]Installer.exe filter=lfs diff=lfs merge=lfs -text
+Element[[:space:]]Setup.exe filter=lfs diff=lfs merge=lfs -text
+GitHubDesktopSetup-x64.exe filter=lfs diff=lfs merge=lfs -text
+GoogleDriveSetup.exe filter=lfs diff=lfs merge=lfs -text
+Spark.exe filter=lfs diff=lfs merge=lfs -text
+VirtualBox-6.1.34a-150636-Win.exe filter=lfs diff=lfs merge=lfs -text
+ZonaSetup64[mldsz].exe filter=lfs diff=lfs merge=lfs -text
+1PasswordSetup-latest.exe filter=lfs diff=lfs merge=lfs -text
+qemu-w64-setup-20220831.exe filter=lfs diff=lfs merge=lfs -text
+jellyfin_10.8.7_windows-x64.exe filter=lfs diff=lfs merge=lfs -text
