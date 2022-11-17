@@ -1,1 +1,2 @@
 HotA_1.6.1_full_setup.exe filter=lfs diff=lfs merge=lfs -text
+HotA_1.6.1_full_setup.exe.7z filter=lfs diff=lfs merge=lfs -text
